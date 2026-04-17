@@ -1,4 +1,4 @@
-# Hello I'm Sakshi Deswal
+# Hello, I'm Sakshi Deswal
 ### .NET Developer | Backend Specialist | Problem Solver
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=Passionate+.NET+Developer;Crafting+Robust+Backend+Systems;Turning+Requirements+into+Solutions)](https://git.io/typing-svg)
